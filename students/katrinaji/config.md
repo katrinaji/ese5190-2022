@@ -1,11 +1,11 @@
 ### `/lab2b/part01/link`
 none
 ### `/lab2b/part01/status`
-not-started
+Complete
 ### `/lab2b/part02/link`
 none
 ### `/lab2b/part02/status`
-not-started
+in-progress
 ### `/lab2b/part03/link`
 none
 ### `/lab2b/part03/status`
@@ -17,7 +17,7 @@ not-started
 ### `/lab2b/part05/link`
 none
 ### `/lab2b/part05/status`
-not-started
+complete
 ### `/lab2b/part06/link`
 none
 ### `/lab2b/part06/status`
